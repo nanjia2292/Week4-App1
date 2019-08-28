@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Week4_App1
 {
@@ -12,6 +8,8 @@ namespace Week4_App1
         {
             Console.WriteLine("Hello world!");
             Console.WriteLine("Workshop 4 edit");
+            Console.WriteLine("some stuff");
+            Console.WriteLine("some stuff");
 
             Console.ReadLine();
         }
